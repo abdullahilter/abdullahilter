@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey! 👋
+I'm Abdullah, software developer since 2010 in Istanbul.
+
+## Skills
+- 
+
+## Contact
+- [abdullah.ilter@gmail.com](mailto:abdullah.ilter@gmail.com)
+- [@abdullahilter](https://www.linkedin.com/in/abdullah-ilter-15aa4b55/) on LinkedInd
 
 <!--
 **abdullahilter/abdullahilter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
