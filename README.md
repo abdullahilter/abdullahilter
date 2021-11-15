@@ -5,8 +5,8 @@ I'm Abdullah, software developer since 2010 in Istanbul.
 - 
 
 ## Contact
-- [abdullah.ilter@gmail.com](mailto:abdullah.ilter@gmail.com)
-- [@abdullahilter](https://www.linkedin.com/in/abdullah-ilter-15aa4b55/) on LinkedInd
+- [abdullah.ilter@gmail.com](mailto:abdullah.ilter@gmail.com) on e-mail
+- [@abdullahilter](https://www.linkedin.com/in/abdullah-ilter-15aa4b55/) on LinkedIn
 
 <!--
 **abdullahilter/abdullahilter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
